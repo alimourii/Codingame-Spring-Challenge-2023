@@ -1,5 +1,3 @@
-# alimourii-CODINGAME-SPRING-CHALLENGE-2023
-
 # Codingame spring Challenge 2023 - Rank 40 Worldwide 🚀
 
 ## Overview
