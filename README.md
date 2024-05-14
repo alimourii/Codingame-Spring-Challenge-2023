@@ -1,4 +1,4 @@
-# Codingame spring Challenge 2023 - Rank 40 Worldwide 🚀
+# Codingame Spring Challenge 2023 - Rank 40 Worldwide 🚀
 
 ## Overview
 I participated in the Codingame Challenge 2023 and achieved a global ranking of 40! It was an exciting experience and I'm thrilled to share my journey with you.
